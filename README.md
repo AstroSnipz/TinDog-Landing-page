@@ -3,9 +3,8 @@
 HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
 https://github.com/appbrewery/tindog/blob/main/Bootstrap-snippets.pdf
 
-Project video explanation:
-https://www.linkedin.com/posts/sharon-sajan-283a43272_oasisinfobyte-webdevelopment-landingpage-activity-7119374431210127361-xOvx?utm_source=share&utm_medium=member_desktop
-
+Live Link:
+https://astrosnipz.github.io/TinDog-Landing-page/
 ## SVGs:
 
 Apple Logo:
